@@ -240,6 +240,22 @@ Description: Display Notification Avatars for QQ App using iOS15+ APIs
 Author: Netskao
 Name: QQNotiAvatar
 
+Package: com.netskao.showtouch
+Version: 1.0.4-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1432
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.netskao.showtouch_1.0.4-3_iphoneos-arm64_aa76032ae10920e6db19e36a821ab6624baff4077f20c52486091f43be52d56b.deb
+Size: 375530
+MD5sum: 682cc5a1d2d99f4a2d5d795b831f6b02
+SHA1: 23efe1c17af2aaa2c42244f0ab16eaf1de1e34a8
+SHA256: aa76032ae10920e6db19e36a821ab6624baff4077f20c52486091f43be52d56b
+Section: Netskao-Tweaks
+Description: Shows where you touch the screen
+Author: LonestarX
+Name: ShowTouch
+
 Package: com.netskao.smallbanners
 Version: 1.2-8
 Architecture: iphoneos-arm64
