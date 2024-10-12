@@ -27,7 +27,7 @@ jobs:
           
       - name: Find updates and download them
         run: |
-          aptb 'https://invalidunit.github.io/netskao-jailrepo/'
+          aptb 'https://netskao.github.io/JailRepo/'
 
       - name: Refresh Packages
         if: success()
