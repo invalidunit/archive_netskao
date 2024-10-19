@@ -206,6 +206,22 @@ Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Author: Netskao
 Name: DumpDecrypter
 
+Package: com.netskao.dumpdecrypter
+Version: 1.4-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 896
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.dumpdecrypter_1.4-8_iphoneos-arm64_a4d479ee513f9d6bc2025eed57783ab91add36bc4af66d1c2fbd1462f810faa0.deb
+Size: 376658
+MD5sum: 0c5d4e6ac8789be5f0cface704997baa
+SHA1: 56ad134a75d9acb4e3047e5bd08bf25bf7e810ed
+SHA256: a4d479ee513f9d6bc2025eed57783ab91add36bc4af66d1c2fbd1462f810faa0
+Section: Netskao-Tweaks
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Name: DumpDecrypter
+
 Package: com.netskao.filzacrack
 Version: 1.1-8
 Architecture: iphoneos-arm64
