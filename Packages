@@ -48,6 +48,23 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData
 
+Package: com.netskao.appdata
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 12532
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.netskao.appdata_1.4.3_iphoneos-arm64_85f42c864b90f7a2226fec98f6ae8c9d2c30bd816a38a9d9349559944f335805.deb
+Size: 4626316
+MD5sum: c259c30da025ffd154ecb96eefc2aa17
+SHA1: ad1cd050162ac7c3686d3ead6e152a04f33fc989
+SHA256: 85f42c864b90f7a2226fec98f6ae8c9d2c30bd816a38a9d9349559944f335805
+Section: Netskao-Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Name: AppData
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+
 Package: com.netskao.awemedisablebar
 Version: 1.1-3
 Architecture: iphoneos-arm64
