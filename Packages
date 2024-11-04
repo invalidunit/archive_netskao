@@ -1102,3 +1102,20 @@ Author: ned
 Name: NoAppThinning
 Sileodepiction: https://jailrepo.initnil.com/Depictions/it.ned.noappthinning.json
 
+Package: it.ned.noappthinning
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: ned
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/it.ned.noappthinning_1.3_iphoneos-arm64_3b50c517c3899bcfa4aac74b796fc972590519796a23856ea2ad252d5cc7d2be.deb
+Size: 3808
+MD5sum: 753fe590fccd0a91844621791fc4cdfc
+SHA1: 57b2e4b01812f018d37b5138b02bebe4f055e7cf
+SHA256: 3b50c517c3899bcfa4aac74b796fc972590519796a23856ea2ad252d5cc7d2be
+Section: Other-Tweaks
+Description: Disable AppStore app thinning - by level3tjg, Disable TestFlight app thinning - by Netskao
+Author: ned
+Name: NoAppThinning
+Sileodepiction: https://jailrepo.initnil.com/Depictions/it.ned.noappthinning.json
+
