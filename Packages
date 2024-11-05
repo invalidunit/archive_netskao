@@ -166,6 +166,23 @@ Author: Netskao
 Name: AwemeDisableBar
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedisablebar.json
 
+Package: com.netskao.awemedisablebar
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 724
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.awemedisablebar_1.1-5_iphoneos-arm64_06bea127e0139a617f3a458432e8c3de44ea3168ec75c2384bded318c8c30342.deb
+Size: 306200
+MD5sum: dad47627921e01fc0fdfac50d138d46e
+SHA1: afb03b71802fd1be06e580d4a168f7d160517dca
+SHA256: 06bea127e0139a617f3a458432e8c3de44ea3168ec75c2384bded318c8c30342
+Section: Netskao-Tweaks
+Description: Aweme Disable Top/Bottom/Right Tab Button. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeDisableBar
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedisablebar.json
+
 Package: com.netskao.awemedownloadmedia
 Version: 1.1-1
 Architecture: iphoneos-arm64
