@@ -10,6 +10,7 @@ jobs:
     uses: invalidunit/action/.github/workflows/aptb.yml@main
     with:
       _repo: https://netskao.github.io/JailRepo/
+      _sleep: 1
 
 
   remove_all_old_actions:
