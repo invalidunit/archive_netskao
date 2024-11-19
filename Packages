@@ -82,6 +82,23 @@ Author: Fouad Raheb
 Name: AppData
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
 
+Package: com.netskao.awemealwaysshowtime
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 56
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.awemealwaysshowtime_1.1-1_iphoneos-arm64_107079edc569872e264f13c7e04928ab42aec7cc8a392b7e63e80e39f6535f55.deb
+Size: 2312
+MD5sum: e01834b0ee0fe02e0ec9adf9a029eb8b
+SHA1: 9150fc47c787a4b57f4c9dbf05161b97a15f57ea
+SHA256: 107079edc569872e264f13c7e04928ab42aec7cc8a392b7e63e80e39f6535f55
+Section: Netskao-Tweaks
+Description: Aweme always shows the video creation time
+Author: Netskao
+Name: AwemeAlwaysShowTime
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemealwaysshowtime.json
+
 Package: com.netskao.awemeclearlikes
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -1065,6 +1082,23 @@ Size: 2564
 MD5sum: 54ba42ae011ea911113a98b12caff6e9
 SHA1: e98a5cac32fa04db67dd2068f93d2ea36cc4967e
 SHA256: a7bc05376aca335ccf844f261868d2a0afd0d1123000c5adf4f654989aada03e
+Section: Netskao-Tweaks
+Description: Twitter removes ads from data stream. Tested on version 10.64.1 only
+Author: Netskao
+Name: Twitter NoAds
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.twitternoads.json
+
+Package: com.netskao.twitternoads
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.twitternoads_1.1-2_iphoneos-arm64_ad0813907bcf3e3c6436ee0466b0452a4c191b2859b5440a03047a01ce468981.deb
+Size: 2636
+MD5sum: 7d0fb366eb6f1b0baab2c7bdaef6478f
+SHA1: a9696e4ce5147e73dcc2361f7c57fd72e4779ad2
+SHA256: ad0813907bcf3e3c6436ee0466b0452a4c191b2859b5440a03047a01ce468981
 Section: Netskao-Tweaks
 Description: Twitter removes ads from data stream. Tested on version 10.64.1 only
 Author: Netskao
