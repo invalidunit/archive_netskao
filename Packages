@@ -1172,6 +1172,23 @@ Author: Netskao
 Name: WeChatNotiAvatar
 Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.wechatnotiavatar.json
 
+Package: com.netskao.wechatuiswitchloader
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 464
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatuiswitchloader_1.1-2_iphoneos-arm64_27e28372d8a797a8dede0e328f6525d7e1f813133dfc3f10354ae320396848fb.deb
+Size: 139800
+MD5sum: 1b218149a4a0dab4671a9d4fd6e00339
+SHA1: 50acfce1b31dc12c7f48d034078009eb651bbf33
+SHA256: 27e28372d8a797a8dede0e328f6525d7e1f813133dfc3f10354ae320396848fb
+Section: Netskao-Tweaks
+Description: WeChat UISwitch Loader
+Author: Netskao
+Name: WeChatUISwitchLoader
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatuiswitchloader.json
+
 Package: it.ned.noappthinning
 Version: 1.2
 Architecture: iphoneos-arm64
