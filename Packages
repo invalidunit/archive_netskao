@@ -1325,6 +1325,23 @@ Author: Netskao
 Name: WeChatUISwitchLoader
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatuiswitchloader.json
 
+Package: com.netskao.wechatuiswitchloader
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 320
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatuiswitchloader_1.1-4_iphoneos-arm64_7dcf3c2a70c155d671f0cd4bf6cd2b0d88e5fd8ff050f8db2dadcccb6f30bf77.deb
+Size: 120836
+MD5sum: 19861ea6bb06387bb63fbdc98a557cc0
+SHA1: 87ae66a102c4e7932b1ceb050011bb83bbbfaabd
+SHA256: 7dcf3c2a70c155d671f0cd4bf6cd2b0d88e5fd8ff050f8db2dadcccb6f30bf77
+Section: Netskao-Tweaks
+Description: WeChat UISwitch Loader
+Author: Netskao
+Name: WeChatUISwitchLoader
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatuiswitchloader.json
+
 Package: it.ned.noappthinning
 Version: 1.2
 Architecture: iphoneos-arm64
