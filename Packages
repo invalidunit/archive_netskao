@@ -1241,6 +1241,23 @@ Author: Netskao
 Name: WCMyPageInfoCenter
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wcmypageinfocenter.json
 
+Package: com.netskao.wcmypageinfocenter
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 220
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.wcmypageinfocenter_1.1-9_iphoneos-arm64_4354b369e9b57c7a4ef40049022f53d9878714b1590cdc3b593123656bb7f8a2.deb
+Size: 67836
+MD5sum: 275f7736bf6cde10692f107fecb70d8c
+SHA1: 76f40013ebc4ea5bdc8f605d339f1d42ed02369b
+SHA256: 4354b369e9b57c7a4ef40049022f53d9878714b1590cdc3b593123656bb7f8a2
+Section: Netskao-Tweaks
+Description: WeChat My Page Info Center, Supported only for version 8.0.31 and above
+Author: Netskao
+Name: WCMyPageInfoCenter
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wcmypageinfocenter.json
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
