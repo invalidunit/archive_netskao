@@ -367,6 +367,23 @@ Author: Netskao
 Name: AwemeFullScreen
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
 
+Package: com.netskao.awemefullscreen
+Version: 1.2-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 400
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.awemefullscreen_1.2-6_iphoneos-arm64_e26130eb68755b14e0b73181d1d352bd42a993dc691778da1ecc8a406f5ea83d.deb
+Size: 168184
+MD5sum: 11acfa520a89e7b7e837c61b63bd0ae1
+SHA1: ef02b1fd0586daa63835257b4dc0aa0457c34884
+SHA256: e26130eb68755b14e0b73181d1d352bd42a993dc691778da1ecc8a406f5ea83d
+Section: Netskao-Tweaks
+Description: Aweme HomePage Full Screen. Tested only on version 31.9.0
+Author: Netskao
+Name: AwemeFullScreen
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
+
 Package: com.netskao.awemesaveemoji
 Version: 1.1-2
 Architecture: iphoneos-arm64
