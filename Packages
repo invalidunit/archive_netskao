@@ -4,6 +4,23 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 3772
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.netskao.appdata_1.4.2_iphoneos-arm64_3bc34f5715ea96c880f245cfbd18022bc15a5411b1dad92785678b08044f3d5a.deb
+Size: 824176
+MD5sum: 633f756387e86a193beff5d93b803b10
+SHA1: c9b64d7b2205c7114dc3d50911a78189fe9110d0
+SHA256: 3bc34f5715ea96c880f245cfbd18022bc15a5411b1dad92785678b08044f3d5a
+Section: Netskao-Tweaks
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
+Author: Fouad Raheb
+Name: AppData
+Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.appdata.json
+
+Package: com.netskao.appdata
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 3772
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64/com.netskao.appdata_1.4.2_iphoneos-arm64_b8b13bf32c17750572eb27e2e95e910f21d7849e546fc254687788d892033900.deb
 Size: 823384
 MD5sum: f9772231975e5821bd957c4ddecb0722
@@ -30,23 +47,6 @@ Section: Netskao-Tweaks
 Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
 Author: Fouad Raheb
 Name: AppData
-
-Package: com.netskao.appdata
-Version: 1.4.2
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 3772
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64/com.netskao.appdata_1.4.2_iphoneos-arm64_3bc34f5715ea96c880f245cfbd18022bc15a5411b1dad92785678b08044f3d5a.deb
-Size: 824176
-MD5sum: 633f756387e86a193beff5d93b803b10
-SHA1: c9b64d7b2205c7114dc3d50911a78189fe9110d0
-SHA256: 3bc34f5715ea96c880f245cfbd18022bc15a5411b1dad92785678b08044f3d5a
-Section: Netskao-Tweaks
-Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
-Author: Fouad Raheb
-Name: AppData
-Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.appdata.json
 
 Package: com.netskao.appdata
 Version: 1.4.3
@@ -239,6 +239,23 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 436
 Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedia_1.1-7_iphoneos-arm64_b4e73db94a209663ad40c3c3a37bbccf2b89ce63485544000478044e6a145442.deb
+Size: 112292
+MD5sum: e0d8c2eb0c4f25ed532f77ad3b4f7734
+SHA1: 87eec722fb0d71e31357b86e22e12d33bd8dc0a9
+SHA256: b4e73db94a209663ad40c3c3a37bbccf2b89ce63485544000478044e6a145442
+Section: Netskao-Tweaks
+Description: Aweme No Watermark Download Media. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeDownloadMedia
+Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.awemedownloadmedia.json
+
+Package: com.netskao.awemedownloadmedia
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 436
+Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedia_1.1-7_iphoneos-arm64_fb2a5062d7bc0f3af3378692b2d9517237b76d3fe0cfc3b32bd351ca0bfe3c14.deb
 Size: 112006
 MD5sum: 056d14ba1cc838f8e98363d6df457514
@@ -265,23 +282,6 @@ Description: Aweme No Watermark Download Media. Tested only on version 30.3.0 an
 Author: Netskao
 Name: AwemeDownloadMedia
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedownloadmedia.json
-
-Package: com.netskao.awemedownloadmedia
-Version: 1.1-7
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 436
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedia_1.1-7_iphoneos-arm64_b4e73db94a209663ad40c3c3a37bbccf2b89ce63485544000478044e6a145442.deb
-Size: 112292
-MD5sum: e0d8c2eb0c4f25ed532f77ad3b4f7734
-SHA1: 87eec722fb0d71e31357b86e22e12d33bd8dc0a9
-SHA256: b4e73db94a209663ad40c3c3a37bbccf2b89ce63485544000478044e6a145442
-Section: Netskao-Tweaks
-Description: Aweme No Watermark Download Media. Tested only on version 30.3.0 and above
-Author: Netskao
-Name: AwemeDownloadMedia
-Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.awemedownloadmedia.json
 
 Package: com.netskao.awemedownloadmedia
 Version: 1.1-8
@@ -524,16 +524,16 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 224
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/iphoneos-arm64/com.netskao.ccbadgeclear_1.2-6_iphoneos-arm64_18dc4d335c2df964f522f78ea6847493bbdb8b1d13dfc00c3c4b582c10e6bfa6.deb
-Size: 25784
-MD5sum: d2fef3eec8a0f17f49df0ba3c68dfb16
-SHA1: 79c0ebe064ff20b7d7d039558b7ad05c56b3c247
-SHA256: 18dc4d335c2df964f522f78ea6847493bbdb8b1d13dfc00c3c4b582c10e6bfa6
+Filename: ./debs/iphoneos-arm64/com.netskao.ccbadgeclear_1.2-6_iphoneos-arm64_410ab35f1856ca287383a86d98a4dcb19d7c50c41bb4d08cddbe405003bc128f.deb
+Size: 25804
+MD5sum: b26263a26f93a1325dff7deee356f899
+SHA1: 4a0957d0ab94910603b5484aecf944f05cb954df
+SHA256: 410ab35f1856ca287383a86d98a4dcb19d7c50c41bb4d08cddbe405003bc128f
 Section: Netskao-Tweaks
 Description: Quickly clean up all red badge on desktop via Control Center, Support iOS15+
 Author: Netskao
 Name: CCBadgeClear
-Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.ccbadgeclear.json
+Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.ccbadgeclear.json
 
 Package: com.netskao.ccbadgeclear
 Version: 1.2-6
@@ -557,16 +557,16 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 224
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/iphoneos-arm64/com.netskao.ccbadgeclear_1.2-6_iphoneos-arm64_410ab35f1856ca287383a86d98a4dcb19d7c50c41bb4d08cddbe405003bc128f.deb
-Size: 25804
-MD5sum: b26263a26f93a1325dff7deee356f899
-SHA1: 4a0957d0ab94910603b5484aecf944f05cb954df
-SHA256: 410ab35f1856ca287383a86d98a4dcb19d7c50c41bb4d08cddbe405003bc128f
+Filename: ./debs/iphoneos-arm64/com.netskao.ccbadgeclear_1.2-6_iphoneos-arm64_18dc4d335c2df964f522f78ea6847493bbdb8b1d13dfc00c3c4b582c10e6bfa6.deb
+Size: 25784
+MD5sum: d2fef3eec8a0f17f49df0ba3c68dfb16
+SHA1: 79c0ebe064ff20b7d7d039558b7ad05c56b3c247
+SHA256: 18dc4d335c2df964f522f78ea6847493bbdb8b1d13dfc00c3c4b582c10e6bfa6
 Section: Netskao-Tweaks
 Description: Quickly clean up all red badge on desktop via Control Center, Support iOS15+
 Author: Netskao
 Name: CCBadgeClear
-Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.ccbadgeclear.json
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.ccbadgeclear.json
 
 Package: com.netskao.cclifttowake
 Version: 1.1-1
@@ -674,16 +674,16 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 168
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.netskao.disablebottombarlrswipe_1.1-2_iphoneos-arm64_ef01c31827e311b3c82a83256e458cb969920227571a049a3ff8fdfa04337163.deb
-Size: 5780
-MD5sum: 9e9e02fccf516f6e58412b9f7c7e81fe
-SHA1: 0c86c4e06745b59226c6fd0b37bf64698c0077e9
-SHA256: ef01c31827e311b3c82a83256e458cb969920227571a049a3ff8fdfa04337163
+Filename: ./debs/iphoneos-arm64/com.netskao.disablebottombarlrswipe_1.1-2_iphoneos-arm64_474f90fc7e8a28b8f0e62f122a97b254926511b05956690b3e21f970df7f5793.deb
+Size: 5772
+MD5sum: a116cdfc6a5a4ee0be052a2a8055053b
+SHA1: 7f56425d1cdc0b74eda7c7c4f23184ce4f534e26
+SHA256: 474f90fc7e8a28b8f0e62f122a97b254926511b05956690b3e21f970df7f5793
 Section: Netskao-Tweaks
 Description: Disable bottom bar left/right swipe
 Author: Netskao
 Name: DisableBottomBarLRSwipe
-Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.disablebottombarlrswipe.json
+Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.disablebottombarlrswipe.json
 
 Package: com.netskao.disablebottombarlrswipe
 Version: 1.1-2
@@ -707,16 +707,16 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 168
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.netskao.disablebottombarlrswipe_1.1-2_iphoneos-arm64_474f90fc7e8a28b8f0e62f122a97b254926511b05956690b3e21f970df7f5793.deb
-Size: 5772
-MD5sum: a116cdfc6a5a4ee0be052a2a8055053b
-SHA1: 7f56425d1cdc0b74eda7c7c4f23184ce4f534e26
-SHA256: 474f90fc7e8a28b8f0e62f122a97b254926511b05956690b3e21f970df7f5793
+Filename: ./debs/iphoneos-arm64/com.netskao.disablebottombarlrswipe_1.1-2_iphoneos-arm64_ef01c31827e311b3c82a83256e458cb969920227571a049a3ff8fdfa04337163.deb
+Size: 5780
+MD5sum: 9e9e02fccf516f6e58412b9f7c7e81fe
+SHA1: 0c86c4e06745b59226c6fd0b37bf64698c0077e9
+SHA256: ef01c31827e311b3c82a83256e458cb969920227571a049a3ff8fdfa04337163
 Section: Netskao-Tweaks
 Description: Disable bottom bar left/right swipe
 Author: Netskao
 Name: DisableBottomBarLRSwipe
-Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.disablebottombarlrswipe.json
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.disablebottombarlrswipe.json
 
 Package: com.netskao.dumpdecrypter
 Version: 1.4-4
@@ -856,6 +856,24 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 88
 Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/iphoneos-arm64/com.netskao.filzacrack_1.1-8_iphoneos-arm64_963272294921e3ad02688c720e64e0a8455ec71a74a4d22420c7ba15021c5929.deb
+Size: 5020
+MD5sum: e166485f6b62b990c19bc1298cb2c599
+SHA1: 951c2df5a455dafbcab216d91667d677e61a1597
+SHA256: 963272294921e3ad02688c720e64e0a8455ec71a74a4d22420c7ba15021c5929
+Section: Netskao-Tweaks
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Author: Netskao
+Name: Filza Crack
+Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.filzacrack.json
+
+Package: com.netskao.filzacrack
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
 Filename: ./debs/iphoneos-arm64/com.netskao.filzacrack_1.1-8_iphoneos-arm64_d3b6afaac25ecdd5fdd2c68d8b4e841a6adbe446b8588cf74cc0a050dacc0847.deb
 Size: 5008
 MD5sum: 84206ae230eca314b5cd17631dde31d7
@@ -885,23 +903,22 @@ Description: Filza unlock full functionality, the main program please install in
 Author: Netskao
 Name: Filza Crack
 
-Package: com.netskao.filzacrack
-Version: 1.1-8
+Package: com.netskao.flexlist
+Version: 1.4-2
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 88
-Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
-Filename: ./debs/iphoneos-arm64/com.netskao.filzacrack_1.1-8_iphoneos-arm64_963272294921e3ad02688c720e64e0a8455ec71a74a4d22420c7ba15021c5929.deb
-Size: 5020
-MD5sum: e166485f6b62b990c19bc1298cb2c599
-SHA1: 951c2df5a455dafbcab216d91667d677e61a1597
-SHA256: 963272294921e3ad02688c720e64e0a8455ec71a74a4d22420c7ba15021c5929
+Installed-Size: 5020
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.netskao.flexlist_1.4-2_iphoneos-arm64_d3bf4b566b61ce04e0fe4bba859bea1acc7e2b3a32b473d43edd56ab5a2965e3.deb
+Size: 1321680
+MD5sum: 5c6d976d9ec98afe532b59a9e62df320
+SHA1: 8218ba67aa540ab3cab12fb97017740db45a23d2
+SHA256: d3bf4b566b61ce04e0fe4bba859bea1acc7e2b3a32b473d43edd56ab5a2965e3
 Section: Netskao-Tweaks
-Homepage: https://tigisoftware.com/cydia/
-Description: Filza unlock full functionality, the main program please install in the official source
+Description: FLEXList is a wrapper tool for FLEX Tool
 Author: Netskao
-Name: Filza Crack
-Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.filzacrack.json
+Name: FLEXList
+Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.flexlist.json
 
 Package: com.netskao.flexlist
 Version: 1.4-2
@@ -935,23 +952,6 @@ Description: FLEXList is a wrapper tool for FLEX Tool
 Author: Netskao
 Name: FLEXList
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.flexlist.json
-
-Package: com.netskao.flexlist
-Version: 1.4-2
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 5020
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64/com.netskao.flexlist_1.4-2_iphoneos-arm64_d3bf4b566b61ce04e0fe4bba859bea1acc7e2b3a32b473d43edd56ab5a2965e3.deb
-Size: 1321680
-MD5sum: 5c6d976d9ec98afe532b59a9e62df320
-SHA1: 8218ba67aa540ab3cab12fb97017740db45a23d2
-SHA256: d3bf4b566b61ce04e0fe4bba859bea1acc7e2b3a32b473d43edd56ab5a2965e3
-Section: Netskao-Tweaks
-Description: FLEXList is a wrapper tool for FLEX Tool
-Author: Netskao
-Name: FLEXList
-Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.flexlist.json
 
 Package: com.netskao.noappthinning
 Version: 1.4
@@ -1096,6 +1096,23 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 900
 Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.smallbanners_1.2-8_iphoneos-arm64_0500f3482bc9214684db4446db3db91e18a29d386fd949fb8e827355b865c07f.deb
+Size: 202068
+MD5sum: c3bbe452c66c18904d8a4191c111b9f3
+SHA1: b2bfe7776b696dfab64fa5b243047eabb642f5ef
+SHA256: 0500f3482bc9214684db4446db3db91e18a29d386fd949fb8e827355b865c07f
+Section: Netskao-Tweaks
+Description: Small Notification Banners. Support iOS15+
+Author: Netskao
+Name: SmallBanners
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.smallbanners.json
+
+Package: com.netskao.smallbanners
+Version: 1.2-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 900
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
 Filename: ./debs/iphoneos-arm64/com.netskao.smallbanners_1.2-8_iphoneos-arm64_6379ec0f4ceedf1d4d5d165d38f64e66bac0777f8dd3f4dcf4a084b2dcf72d21.deb
 Size: 201812
 MD5sum: b058467043494f6150a99ef03d01c433
@@ -1122,39 +1139,6 @@ Section: Netskao-Tweaks
 Description: Small Notification Banners. Support iOS15+
 Author: Netskao
 Name: SmallBanners
-
-Package: com.netskao.smallbanners
-Version: 1.2-8
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 900
-Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
-Filename: ./debs/iphoneos-arm64/com.netskao.smallbanners_1.2-8_iphoneos-arm64_0500f3482bc9214684db4446db3db91e18a29d386fd949fb8e827355b865c07f.deb
-Size: 202068
-MD5sum: c3bbe452c66c18904d8a4191c111b9f3
-SHA1: b2bfe7776b696dfab64fa5b243047eabb642f5ef
-SHA256: 0500f3482bc9214684db4446db3db91e18a29d386fd949fb8e827355b865c07f
-Section: Netskao-Tweaks
-Description: Small Notification Banners. Support iOS15+
-Author: Netskao
-Name: SmallBanners
-Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.smallbanners.json
-
-Package: com.netskao.storeswitchaccounts
-Version: 1.1-4
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 460
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.netskao.storeswitchaccounts_1.1-4_iphoneos-arm64_cef9161d57877bd09f17c340d5e24fbf7e5375e480614d71547bf16662395673.deb
-Size: 102250
-MD5sum: 4068837649849027df94f13ea5d2a7d5
-SHA1: 8def9d09e6b407747bbdfb91f8579f6f5df5ed18
-SHA256: cef9161d57877bd09f17c340d5e24fbf7e5375e480614d71547bf16662395673
-Section: Netskao-Tweaks
-Description: Conveniently switch between logged-in accounts, long press the desktop AppStore icon to switch
-Author: Netskao
-Name: StoreSwitchAccounts
 
 Package: com.netskao.storeswitchaccounts
 Version: 1.1-4
@@ -1189,6 +1173,22 @@ Description: Conveniently switch between logged-in accounts, long press the desk
 Author: Netskao
 Name: StoreSwitchAccounts
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.storeswitchaccounts.json
+
+Package: com.netskao.storeswitchaccounts
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 460
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.storeswitchaccounts_1.1-4_iphoneos-arm64_cef9161d57877bd09f17c340d5e24fbf7e5375e480614d71547bf16662395673.deb
+Size: 102250
+MD5sum: 4068837649849027df94f13ea5d2a7d5
+SHA1: 8def9d09e6b407747bbdfb91f8579f6f5df5ed18
+SHA256: cef9161d57877bd09f17c340d5e24fbf7e5375e480614d71547bf16662395673
+Section: Netskao-Tweaks
+Description: Conveniently switch between logged-in accounts, long press the desktop AppStore icon to switch
+Author: Netskao
+Name: StoreSwitchAccounts
 
 Package: com.netskao.twitternoads
 Version: 1.1-1
@@ -1399,23 +1399,6 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 2336
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64_e501ea9aaaf00939ef53c2210c23e821ac9f78e93dacc0817b13cef1a0c1876f.deb
-Size: 522568
-MD5sum: dfd0ba6cc67d8b476662f8802316ae3e
-SHA1: 8ebb292aae3a4dc2eed4aa9de98bf2ff5435c779
-SHA256: e501ea9aaaf00939ef53c2210c23e821ac9f78e93dacc0817b13cef1a0c1876f
-Section: Netskao-Tweaks
-Description: Display Notification Avatars for WeChat App using iOS15+ APIs
-Author: Netskao
-Name: WeChatNotiAvatar
-Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatnotiavatar.json
-
-Package: com.netskao.wechatnotiavatar
-Version: 1.2-5
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 2336
-Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64_abe00fb77fd8d39fca97b1df0d99ea1f6efd5aa7f2daa418fa69f52069e8ed50.deb
 Size: 523400
 MD5sum: fbd0b1c131c7f8a8b6fb5dc79b6fae71
@@ -1426,6 +1409,23 @@ Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
 Name: WeChatNotiAvatar
 Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/com.netskao.wechatnotiavatar.json
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64_e501ea9aaaf00939ef53c2210c23e821ac9f78e93dacc0817b13cef1a0c1876f.deb
+Size: 522568
+MD5sum: dfd0ba6cc67d8b476662f8802316ae3e
+SHA1: 8ebb292aae3a4dc2eed4aa9de98bf2ff5435c779
+SHA256: e501ea9aaaf00939ef53c2210c23e821ac9f78e93dacc0817b13cef1a0c1876f
+Section: Netskao-Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Name: WeChatNotiAvatar
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatnotiavatar.json
 
 Package: com.netskao.wechatuiswitchloader
 Version: 1.1-2
@@ -1501,23 +1501,6 @@ Architecture: iphoneos-arm64
 Maintainer: ned
 Installed-Size: 168
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/it.ned.noappthinning_1.2_iphoneos-arm64_8d91647bad56b35502bd3404fedc2a7e1749ab0353303ff97f31aa92b036bd43.deb
-Size: 3732
-MD5sum: 2cebb4ad9476e246ed04464fd8959d97
-SHA1: c6527ebfc30b9c482c80e24ee42100d66c1be190
-SHA256: 8d91647bad56b35502bd3404fedc2a7e1749ab0353303ff97f31aa92b036bd43
-Section: Other-Tweaks
-Description: Disable AppStore/TestFlight app thinning - by level3tjg
-Author: ned
-Name: NoAppThinning
-Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/it.ned.noappthinning.json
-
-Package: it.ned.noappthinning
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: ned
-Installed-Size: 168
-Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64/it.ned.noappthinning_1.2_iphoneos-arm64_fed33877e7bd394f359dd78002b0225bfe331045ea8c416f0bf8480876ddc4ed.deb
 Size: 3576
 MD5sum: 3f9685142d01ce3d63eef3d6bb512096
@@ -1544,6 +1527,23 @@ Description: Disable AppStore/TestFlight app thinning - by level3tjg
 Author: ned
 Name: NoAppThinning
 Sileodepiction: https://jailrepo.initnil.com/Depictions/it.ned.noappthinning.json
+
+Package: it.ned.noappthinning
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: ned
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/it.ned.noappthinning_1.2_iphoneos-arm64_8d91647bad56b35502bd3404fedc2a7e1749ab0353303ff97f31aa92b036bd43.deb
+Size: 3732
+MD5sum: 2cebb4ad9476e246ed04464fd8959d97
+SHA1: c6527ebfc30b9c482c80e24ee42100d66c1be190
+SHA256: 8d91647bad56b35502bd3404fedc2a7e1749ab0353303ff97f31aa92b036bd43
+Section: Other-Tweaks
+Description: Disable AppStore/TestFlight app thinning - by level3tjg
+Author: ned
+Name: NoAppThinning
+Sileodepiction: https://jailrepo.initnil.com/Depictions/Jsons/it.ned.noappthinning.json
 
 Package: it.ned.noappthinning
 Version: 1.3
