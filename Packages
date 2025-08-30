@@ -1427,6 +1427,23 @@ Author: Netskao
 Name: WeChatNotiAvatar
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatnotiavatar.json
 
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1244
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatar_1.2-9_iphoneos-arm64_20250830-1428_c4da00b6c4ba4bf843d5ac13c1f547322d8d7e571d65ce1f2a28413e09f5e53e.deb
+Size: 241000
+MD5sum: a030cbcd25821e6368c921ea67692412
+SHA1: 96434618bcfe303d76798720b1594791f6c4ccdd
+SHA256: c4da00b6c4ba4bf843d5ac13c1f547322d8d7e571d65ce1f2a28413e09f5e53e
+Section: Netskao-Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Name: WeChatNotiAvatar
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatnotiavatar.json
+
 Package: com.netskao.wechatuiswitchloader
 Version: 1.1-2
 Architecture: iphoneos-arm64
