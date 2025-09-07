@@ -685,6 +685,23 @@ Description: Customize the height of the bottom of the X-keyboard, the height of
 Author: Netskao
 Name: ClassicKeyboardXS
 
+Package: com.netskao.classickeyboardxs
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1044
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.netskao.classickeyboardxs_1.1-9_iphoneos-arm64_20250907-1725_bc56777d665ef022383b2c9deff2b7b8b3db21fef673c45553d6afc3de21877b.deb
+Size: 275676
+MD5sum: 06aa60bfb13653f8b2405f572db1cb41
+SHA1: 82a939be0a54c07fea7bd690de7d342fd0b9b46b
+SHA256: bc56777d665ef022383b2c9deff2b7b8b3db21fef673c45553d6afc3de21877b
+Section: Netskao-Tweaks
+Description: Customize the height of the bottom of the X-keyboard, the height of the bottom of the earth, etc.
+Author: Netskao
+Name: ClassicKeyboardXS
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.classickeyboardxs.json
+
 Package: com.netskao.disablebottombarlrswipe
 Version: 1.1-2
 Architecture: iphoneos-arm64
