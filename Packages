@@ -1530,6 +1530,23 @@ Author: Netskao
 Name: Swiftgram Crack
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.swiftgramcrack.json
 
+Package: com.netskao.swiftgramcrack
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1080
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.swiftgramcrack_1.1-7_iphoneos-arm64_20251128-1531_3f8f843866d2c1f1ef7a5d60154397c0fb9d4f798dc094a2ecf32693fe751fa6.deb
+Size: 423944
+MD5sum: 3a6c282522a919c84f9c93c54de8c8f9
+SHA1: 15184fbfeaf8f4c69f890e0d3a892079ec06946e
+SHA256: 3f8f843866d2c1f1ef7a5d60154397c0fb9d4f798dc094a2ecf32693fe751fa6
+Section: Netskao-Tweaks
+Description: Swiftgram Pro. 附加解除下载保护/解除截图保护/去除官方广告, 支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Author: Netskao
+Name: Swiftgram Crack
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.swiftgramcrack.json
+
 Package: com.netskao.twitternoads
 Version: 1.1-1
 Architecture: iphoneos-arm64
