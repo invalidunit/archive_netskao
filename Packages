@@ -1511,6 +1511,22 @@ Description: MangaBox Crack, Supports version 1.2.6 and above
 Author: Netskao
 Name: MangaBox Crack
 
+Package: com.netskao.mangaboxcrack
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 304
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.mangaboxcrack_1.1-3_iphoneos-arm64_20251214-1731_cbcf0f5aec65e6c85a7746dbe6aa31cd02062bab134b48d465641ff3e2a853f0.deb
+Size: 86144
+MD5sum: 2af45ce8d08040fb87ecd53faaa44a10
+SHA1: 6f043990654d5ad01dc16517582092f064173bb2
+SHA256: cbcf0f5aec65e6c85a7746dbe6aa31cd02062bab134b48d465641ff3e2a853f0
+Section: Netskao-Tweaks
+Description: MangaBox Crack, Supports version 1.2.4 and above
+Author: Netskao
+Name: MangaBox Crack
+
 Package: com.netskao.medibangcrack
 Version: 1.1-2
 Architecture: iphoneos-arm64
