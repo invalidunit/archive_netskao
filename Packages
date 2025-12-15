@@ -1328,6 +1328,22 @@ Description: ImgPlay Crack, Supports version 6.4.2 and above
 Author: Netskao
 Name: ImgPlay Crack
 
+Package: com.netskao.imgplaycrack
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 996
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.imgplaycrack_1.1-3_iphoneos-arm64_20251215-0736_eeda5fada3d61e01d192525d0f1ae06be9bad70cadeefa00dd075528844df0ff.deb
+Size: 371694
+MD5sum: 1ad6f80b0187dd366073ed0f73277b9a
+SHA1: 36c345180fd42e61a277987a86e056aaf56e056a
+SHA256: eeda5fada3d61e01d192525d0f1ae06be9bad70cadeefa00dd075528844df0ff
+Section: Netskao-Tweaks
+Description: ImgPlay Crack, Supports version 6.5.0
+Author: Netskao
+Name: ImgPlay Crack
+
 Package: com.netskao.injectipa
 Version: 1.5-7
 Architecture: iphoneos-arm64
@@ -1526,6 +1542,22 @@ Section: Netskao-Tweaks
 Description: MangaBox Crack, Supports version 1.2.4 and above
 Author: Netskao
 Name: MangaBox Crack
+
+Package: com.netskao.medibangcrack
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1452
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.medibangcrack_1.1-2_iphoneos-arm64_20251215-0736_42f79b2b10ce3fffb9835cc25b8443f35a92b9bfef5c8571d6ed91bbf4d922fe.deb
+Size: 586044
+MD5sum: 2708711279949ac33dd1e50eae25f305
+SHA1: 7a9ca4c602728c266478dc22ea9ca17b79ca617e
+SHA256: 42f79b2b10ce3fffb9835cc25b8443f35a92b9bfef5c8571d6ed91bbf4d922fe
+Section: Netskao-Tweaks
+Description: MediBang/MediBangPaint/MediBangPro Crack. (MediBang/MediBangPaint)Supports version 28.12 and above, (MediBangPro)Supports version 3.1 and above
+Author: Netskao
+Name: MediBang Crack
 
 Package: com.netskao.medibangcrack
 Version: 1.1-2
