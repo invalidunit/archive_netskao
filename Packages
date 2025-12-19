@@ -927,6 +927,22 @@ Description: DazzCamera Crack
 Author: Netskao
 Name: DazzCamera Crack
 
+Package: com.netskao.dazzcameracrack
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1044
+Depends: firmware (>= 15.6), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.dazzcameracrack_1.1-2_iphoneos-arm64_20251219-0403_5a5c73d2760bd706475dfca5b22418381ead73008f5f9e249263c0985d576634.deb
+Size: 412924
+MD5sum: d7c5a613d9aae19a3846810d28300fe9
+SHA1: 915c749d4a4d354ec414adb7efb7a650fccb3f35
+SHA256: 5a5c73d2760bd706475dfca5b22418381ead73008f5f9e249263c0985d576634
+Section: Netskao-Tweaks
+Description: DazzCamera Crack
+Author: Netskao
+Name: DazzCamera Crack
+
 Package: com.netskao.disablebottombarlrswipe
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -1357,6 +1373,22 @@ SHA1: 36c345180fd42e61a277987a86e056aaf56e056a
 SHA256: eeda5fada3d61e01d192525d0f1ae06be9bad70cadeefa00dd075528844df0ff
 Section: Netskao-Tweaks
 Description: ImgPlay Crack, Supports version 6.5.0
+Author: Netskao
+Name: ImgPlay Crack
+
+Package: com.netskao.imgplaycrack
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 980
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.imgplaycrack_1.1-4_iphoneos-arm64_20251219-0403_e29c4471368c75e6d1066fbaef38e7c8c2909664c023ed02d7a0a6d1ec6d203f.deb
+Size: 372336
+MD5sum: ac87a0816f4dd3ecbc8d9e0c44a172f7
+SHA1: bca3225746839c237661a17a68b98f578899451d
+SHA256: e29c4471368c75e6d1066fbaef38e7c8c2909664c023ed02d7a0a6d1ec6d203f
+Section: Netskao-Tweaks
+Description: ImgPlay Crack, Supports version 6.5.1 only
 Author: Netskao
 Name: ImgPlay Crack
 
