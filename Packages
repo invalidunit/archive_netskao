@@ -1277,6 +1277,22 @@ Author: Netskao
 Name: Filza Crack
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
 
+Package: com.netskao.filzacrack
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 120
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.filzacrack_1.1-9_iphoneos-arm64_20251220-0439_2ccb5c8d2fb4a9667ee36da2a1731d9cae276583bec0f8ccdfda61a9e5262eb3.deb
+Size: 28576
+MD5sum: c1588f21fad674e184ed37670a24f180
+SHA1: 7fb7cdbd403d8d2c06b2ea25f0edaf714a349dd1
+SHA256: 2ccb5c8d2fb4a9667ee36da2a1731d9cae276583bec0f8ccdfda61a9e5262eb3
+Section: Netskao-Tweaks
+Description: Filza Crack
+Author: Netskao
+Name: Filza Crack
+
 Package: com.netskao.flexlist
 Version: 1.4-2
 Architecture: iphoneos-arm64
