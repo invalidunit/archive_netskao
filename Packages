@@ -1440,6 +1440,22 @@ Description: ImgPlay Crack, Supports version 6.5.2 only
 Author: Netskao
 Name: ImgPlay Crack
 
+Package: com.netskao.imgplaycrack
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1060
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.imgplaycrack_1.1-6_iphoneos-arm64_20260113-1353_ec74a45c5e4a902fc870deecb8a172ba178f8fb336a2bc6699cc78e9c00e6a85.deb
+Size: 413704
+MD5sum: 0d2c6efcfd5c7e1fbcd74a3b4ee40f2a
+SHA1: d89da92891eb19a646494c8f6091f8e2b908f525
+SHA256: ec74a45c5e4a902fc870deecb8a172ba178f8fb336a2bc6699cc78e9c00e6a85
+Section: Netskao-Tweaks
+Description: ImgPlay Crack, Supports version 6.5.3 and later
+Author: Netskao
+Name: ImgPlay Crack
+
 Package: com.netskao.injectipa
 Version: 1.5-7
 Architecture: iphoneos-arm64
